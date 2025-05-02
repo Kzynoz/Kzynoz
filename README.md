@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bonjour 👋 Je suis Julien, actuellement à la recherche de nouvelles opportunités
 
-<!--
-**Kzynoz/Kzynoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Full-Stack JavaScript en reconversion après 7 ans en tant qu’intégrateur & webdesigner chez Antidote.
+Formé à la 3W Academy, j’ai travaillé sur plusieurs projets web complets, de la conception à la mise en production.
 
-Here are some ideas to get you started:
+🚀 Je cherche aujourd’hui un poste en CDI comme développeur JavaScript (front-end ou back-end)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack actuelle :
+- **Front** : React, HTML/CSS, Sass
+- **Back** : Node.js, Express, MySQL, API Restfull
+
+## Quelques projets 
+- [**Roméo, assistant facturation** | Projet de fin d'études](https://github.com/Kzynoz/romeo)
+une plateforme de gestion de soins et de factures pour les professionnels paramédicaux, pensée mobile-first.
+- Maquettes et sites Wordpress
+
+## 🌱 Actuellement en train d'apprendre
+- **TypeScript**
+- **Next.js**
+
+## 📫 Me contacter :
+- [LinkedIn](https://www.linkedin.com/in/julienbellet/)
+
+Merci d’être passé sur mon profil 👋
