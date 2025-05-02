@@ -1,4 +1,4 @@
-# Bonjour 👋 Je suis Julien, actuellement à la recherche de nouvelles opportunités
+# Bonjour 👋 Je suis Julien
 
 Développeur Full-Stack JavaScript en reconversion après 7 ans en tant qu’intégrateur & webdesigner chez Antidote.
 Formé à la 3W Academy, j’ai travaillé sur plusieurs projets web complets, de la conception à la mise en production.
